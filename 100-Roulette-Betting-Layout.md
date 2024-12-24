@@ -5,7 +5,7 @@ The lowest layer is the Roulette Betting layout.
 ![Betting Layout](img/Video-Layout-100-roulette-betting-layout.png)
 
 |X|Y|Scale|
------------
+|-|-|-----|
 |xx|yy|scale|
 
 This is a full 1920x1080 graphic of the Roulette Betting Layout. It does not need to be resized or repositioned on a 1920x1080 video.
