@@ -8,7 +8,7 @@ Each component is in its own layer in the Adobe Premiere timeline. The bottom-mo
 
 Here are each of the components split out:
 
-* [100 - Roulette Layout](100-Roulette-Layout)
+* [100 - Roulette Betting Layout](100-Roulette-Betting-Layout)
 * [200 - iPad Roulette App](200-iPad-Roulette-App)
 * [300 - Betting Progression](300-Betting-Progression)
 * [500 - Front Facing Camera](500-Front-Facing-Cam)
