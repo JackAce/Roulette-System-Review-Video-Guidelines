@@ -1,17 +1,17 @@
 # iPad Roulette App
 
-The iPad Roulette App is one layer above the [Roulette Betting Layout](100-Roulette-Betting-Layout.md). 
+The iPad Roulette App is one layer above the [Roulette Betting Layout](100-Roulette-Betting-Layout.md) and one layer below the [Betting Progression](300-Betting-Progression.md). 
 
 ![iPad Roulette App](img/Video-Layout-200-ipad-app.png)
 
 |X|Y|Scale|
 |-|-|-----|
-|960|540|100%|
+|556|388|58%|
 
-This is a full 1920x1080 graphic of the Roulette Betting Layout. It does not need to be resized or repositioned on a 1920x1080 video.
+This is the screen recording of me playing the Roulette app on my iPad. It needs to be scaled down and confined to the upper left corner of the screen.
 
-The initial state of this image is the blank roulette layout for the appropriate wheel used. If the Roulette strategy is tested using a single zero wheel, this graphic should use the layout for a single zero wheel.
+Make sure the casino chip at the top of the screen recording is cropped off at the top. Make sure the white horizontal line at the bottom is hidden under the Betting Progression layer.
 
-The graphic should correspond to the bet currently being made in the iPad app, but it can change according to what the speaker is discussing. If the speaker is talking about wins/losses/whacks, then the graphic can be updated to display the appropriate win/loss result.
+This layer needs to be heavily edited. Try to cut out dead video where there is no action UNLESS the speaker is speaking.
 
-Also, if the speaker is discussing alternate betting patterns, they can be displayed here.
+[Back](index.md)
