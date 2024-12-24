@@ -8,13 +8,12 @@ Each component is in its own layer in the Adobe Premiere timeline. The bottom-mo
 
 Here are each of the components split out:
 
-[100 - Roulette Layout](100-Roulette-Layout)
-[200 - iPad Roulette App](200-iPad-Roulette-App)
-[300 - Betting Progression](300-Betting-Progression)
-[500 - Front Facing Camera](500-Front-Facing-Cam)
-[800 - Win/Loss Table](800-Win-Loss-Table)
-[900 - Scoreboard](900-Scoreboard)
-	[910 - Last Number](910-Last-Spin)
-	[920 - Last Win/Loss](920-Last-Win-Loss)
-	[930 - Running Win/Loss](930-Running-Win-Loss)
-
+* [100 - Roulette Layout](100-Roulette-Layout)
+* [200 - iPad Roulette App](200-iPad-Roulette-App)
+* [300 - Betting Progression](300-Betting-Progression)
+* [500 - Front Facing Camera](500-Front-Facing-Cam)
+* [800 - Win/Loss Table](800-Win-Loss-Table)
+* [900 - Scoreboard](900-Scoreboard)
+	* [910 - Last Number](910-Last-Spin)
+	* [920 - Last Win/Loss](920-Last-Win-Loss)
+	* [930 - Running Win/Loss](930-Running-Win-Loss)
