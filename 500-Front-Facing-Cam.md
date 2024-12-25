@@ -16,4 +16,6 @@ You have to fine tune the Ultra Key settings for each video, but here are some s
 |---------|------------|---------|------|---------|--------|
 |#478160|45%|0|70|5|100|
 
+This layer should be off to the right, so it doesn't block the bet amount in the iPad App. You might need to slide it around a little.
+
 [Back](index.md)
