@@ -6,7 +6,7 @@ This is a spreadsheet table of wins and losses for the live trial. This layer sh
 
 |X|Y|Scale|
 |-|-|-----|
-|1695|800|100%|
+|1695|840|100%|
 
 This layer needs to update every spin.
 
