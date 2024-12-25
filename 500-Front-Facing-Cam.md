@@ -2,20 +2,14 @@
 
 The Front Facing Cam layer is above the [Betting Progression](300-Betting-Progression.md) layer. 
 
-![Front Facing Cam](img/Video-Layout-500-front-facing-cam.png)
+![Front Facing Cam](img/Video-Layout-800-win-loss-table.png)
 
 |X|Y|Scale|
 |-|-|-----|
-|1080|757|45%|
+|1695|840|100%|
 
-This is a scaled down video of the Front Facing Cam, usually with a green screen background.
+This layer needs to update for every spin.
 
-You have to fine tune the Ultra Key settings for each video, but here are some settings that have worked in the past:
-
-|Key Color|Transparancy|Highlight|Shadow|Tolerance|Pedestal|
-|---------|------------|---------|------|---------|--------|
-|#478160|45%|0|70|5|100|
-
-This layer should be off to the right, so it doesn't block the bet amount in the iPad App. You might need to slide it around a little.
+I'm removing the graph, so the win/loss table can cover more of the screen.
 
 [Back](index.md)
