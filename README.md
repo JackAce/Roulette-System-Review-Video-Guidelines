@@ -1,5 +1,8 @@
 # Roulette System Review Video Guidelines
 
+This repository is meant to document the video editing guidelines for producing Roulette System Reviews for the [JackAceDotCom YouTube channel](https://www.youtube.com/@JackAceDotCom).
+
+## Layout
 There are several components to the long form Roulette System Review Videos we edit for the JackAce YouTube channel.
 
 ![Full Video Layout](img/Video-Layout-1920x1080.png)
@@ -17,3 +20,28 @@ Here are each of the components split out:
 	* [910 - Last Number](910-Last-Spin.md)
 	* [920 - Last Win/Loss](920-Last-Win-Loss.md)
 	* [930 - Running Win/Loss](930-Running-Win-Loss.md)
+
+## Video Sequences
+There should generally be 4 sequences for the Roulette System Review.
+* Cold Open
+* Live Trials
+* Simulator
+* Review
+
+These can be split up into 4 separate sequences in Adobe Premiere Pro, but I generally group the Cold Open and the Live Trials into a single segment.
+
+## Video Composition
+There are 3 main video recordings used for the Live Trials sequence.
+* The iPad Screen Capture of the Roulette Royale apop
+* The spin-by-spin bet-by-bet game calling (front facing camera video)
+* The system facts and other chatter (front facing camera video)
+
+The first two videos can be time synched. I usually record myself placing the same exact 10 bets rapidly in succession and then removing those same 10 bets. You should be able to hear this audio on the spin-by-spin front-facing camera video and it can be used to sync the two videos. So when the ball lands on 21 red, I should follow up shortly afterwards with "21 Red, that's a whack. Now we increase the bet to $20" or something like that.
+
+The third video has a bunch of facts about the roulette system being tested. It's just a series of facts that need to be cut and inserted into the dead air of the other two videos.
+
+These facts should be inserted HEAVILY at the beginning of the video. For the first 4 or 5 spins, there should be NO dead air. Each of the first 4/5 spins should have facts inserted while the bets are being made...while the wheel is spinning... Keep the dead air to a minimum.
+
+After those first 4 or 5 spins, the facts can be "sprinkled in" more sparingly. Instead of being inserted every spin, you can insert a fact every TWO spins. You can use this cadence for spins 6-15. After that, you can insert the facts every 3 spins. Near the end of the video, you can insert them every 4 or 5 spins. Not only that, but you can even CUT OUT THE PLACEMENT OF THE BET and CUT DIRECTLY TO THE BALL BOUNCING AND LANDING ON A NUMBER. You can do this if the video is particularly long (more than 40 spins).
+
+
