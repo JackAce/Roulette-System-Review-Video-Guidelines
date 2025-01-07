@@ -30,6 +30,22 @@ There should generally be 4 sequences for the Roulette System Review.
 
 These can be split up into 4 separate sequences in Adobe Premiere Pro, but I generally group the Cold Open and the Live Trials into a single segment.
 
+### Cold Open
+In this segment, an introduction is give to some HOOK to intice the viewer to watch the video. "WITH THIS SYSTEM, YOU CAN WIN $1000 IN JUST 3 SPINS!". It usually ends with "Let's checkout [SYSTEM XYZ] together, today on JackAce!"
+
+There should be a transition using the `brand/JackAce-Intro-v1.mp4` video between the cold open and the trials.
+
+### Live Trials
+Here, we test out the system in "real time" to see how it works and to see how it performs.
+
+### Simulator
+The system is run through the JackAce Roulette Simulator and we display the success percentages for 1 to 3 different target win amounts.
+
+### Review
+The system is given an review, including the 6 sub-ratings. This segment closes with "Always gamble responsibly, never play 000 Roulette, and peace out, donkeys!"
+
+After this segment, I would like to use the `brand/JackAce-Outro-insta-tiktok-github-v1.mp4` outro video, as it contains social media links. You should also use audio from the `audio/outro` folder for the outro. This folder contains copyright free music.
+
 ## Video Composition
 There are 3 main video recordings used for the Live Trials sequence.
 * The iPad Screen Capture of the Roulette Royale apop
