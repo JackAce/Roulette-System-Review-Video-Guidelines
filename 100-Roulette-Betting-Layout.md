@@ -16,4 +16,4 @@ The graphic should correspond to the bet currently being made in the iPad app, b
 
 Also, if the speaker is discussing alternate betting patterns, they can be displayed here.
 
-[Back](index.md)
+[Back](./)
