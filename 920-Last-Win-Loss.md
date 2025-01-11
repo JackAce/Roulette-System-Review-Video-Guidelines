@@ -34,4 +34,4 @@ Make sure you use the following Font specifications:
 
 This updates every spin.
 
-[Back](index.md)
+[Back](./)
