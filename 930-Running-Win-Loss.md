@@ -10,4 +10,4 @@ This is one of the top most layers.
 
 This updates every spin.
 
-[Back](index.md)
+[Back](./)
