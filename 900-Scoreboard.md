@@ -29,4 +29,4 @@ This should be displayed via 10 frame cross fade when the system's title is ment
 This should be displayed when the first ball lands and the *CHIME* is played in the app. After this, it should ALWAYS be displayed.
 
 
-[Back](index.md)
+[Back](./)
