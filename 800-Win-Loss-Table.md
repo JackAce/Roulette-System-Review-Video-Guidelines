@@ -10,4 +10,4 @@ This is a spreadsheet table of wins and losses for the live trial. This layer sh
 
 This layer needs to update every spin.
 
-[Back](index.md)
+[Back](./)
