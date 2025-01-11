@@ -12,4 +12,4 @@ This layer needs to update for every spin.
 
 I'm removing the graph, so the win/loss table can cover more of the screen.
 
-[Back](index.md)
+[Back](./)
