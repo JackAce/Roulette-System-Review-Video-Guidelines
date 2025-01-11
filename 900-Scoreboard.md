@@ -11,7 +11,7 @@ This is one of the top most layers.
 There are usually 3 versions of this image:
 
 * `scoreboard-00-blank.png` - The blank scoreboard with no title or other text
-* `scoreboard-01-title.png` - Just the name of the system (and sometimes the name of the author)
+* `scoreboard-01-title.png` - Just the name of the system (and sometimes the name of the author or alternate system name)
 * `scoreboard-02-headers.png` - The title AND headers showing "Last:" and "Trial Total:" or "Running Total:"
 
 This only needs to update when the system name is mentioned (b-title) and on the first spin (c-headers).
