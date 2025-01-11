@@ -14,4 +14,4 @@ Make sure the casino chip at the top of the screen recording is cropped off at t
 
 This layer needs to be heavily edited. Try to cut out dead video where there is no action UNLESS the speaker is speaking.
 
-[Back](index.md)
+[Back](./)
