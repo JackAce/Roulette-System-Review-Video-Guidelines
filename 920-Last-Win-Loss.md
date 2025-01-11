@@ -30,8 +30,7 @@ Make sure you use the following Font specifications:
 * color: #cccccc
 * stroke: #666666
 * stroke-width: 4px
-
-
+* font-style: italic
 
 This updates every spin.
 
