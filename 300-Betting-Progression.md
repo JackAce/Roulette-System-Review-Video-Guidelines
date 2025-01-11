@@ -12,4 +12,4 @@ This is a full 1920x1080 graphic of the Roulette Betting Layout. It does not nee
 
 This starts out as a blank background, but will display ALL betting levels represented with a single casino chip. The chip will display the bet amount total for the betting tier and each tier will increase from left to right.
 
-[Back](index.md)
+[Back](./)
