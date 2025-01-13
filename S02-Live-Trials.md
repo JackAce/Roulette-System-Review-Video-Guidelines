@@ -44,6 +44,9 @@ This layer shows the bet sizes for each of the betting tiers. When the speaker t
 a betting tier or when the betting tier is bet, the appropriate tier should be highlighted.
 You should label these images with the same color scheme as the Roulette Layout images.
 
+As with the Roulette Layout layer, this layer can start out as two layers and later be
+compressed into one.
+
 ### 4. Win/Loss Table
 
 ![Win/Loss Table](img/Seq-02-040-win-loss-table.png)
@@ -89,9 +92,17 @@ This is just a single graphic displaying the last number spun.
 
 ### 11. Last Win/Loss
 
-![Last Spin](img/Seq-02-110-last-win-loss.png)
+![Last Win/Loss](img/Seq-02-110-last-win-loss.png)
 
 This is just a simple text element displaying the last winning or losing amount. Red for losses, Green for wins, Gray for pushes.
+
+Use the following labels for the values displayed:
+
+* Rose: Negative Numbers
+* Green: Positive Numbers
+* Violet: Zero
+
+This makes it easier to see when the player lost or won money.
 
 ### 12. Running Total
 
@@ -99,6 +110,7 @@ This is just a simple text element displaying the last winning or losing amount.
 
 This is the running total of wins and losses for the current trial.
 
-
+Use the same label conventions as with the Last Win/Loss layer. This makes it easier to see when
+the player was up or down in the trial.
 
 [Back](./)
