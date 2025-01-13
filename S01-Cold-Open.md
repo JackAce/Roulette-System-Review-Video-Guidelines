@@ -19,14 +19,20 @@ This is the video of the main speaker speaking. It should be used with Ultra-key
 remove the green screen background. The Front Facing cam footage should be scaled down
 by 60-75%.
 
+![Front Facing Cam](img/Seq-01-500-speaker.png)
+
 ## Over-the-Shoulder Graphic
 
 This is a layer where you can display things like the system name and the CEG Rating.
+
+![Over-the-Shoulder](img/Seq-01-400-over-the-shoulder.png)
 
 ## Roulete Wheel Green Screen
 
 Display the spinning Roulette wheel behind the speaker so viewers know he's speaking
 about Roulette.
+
+![Roulette Wheel](img/Seq-01-300-roulette-wheel.png)
 
 ## Transparent Black overlay
 
@@ -38,4 +44,6 @@ background.
 Show the Be-Right-Back looping video adjusted for 1080p (it should be scaled at 50%).
 You shouldn't need more than 20 seconds (the length of the loop).
 
-[Back](index.md)
+![Be-Right-Back Loop](img/Seq-01-100-be-right-back.png)
+
+[Back](./)
