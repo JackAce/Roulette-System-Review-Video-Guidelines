@@ -30,7 +30,7 @@ This is a layer where you can display things like the system name and the CEG Ra
 ## Roulete Wheel Green Screen
 
 Display the spinning Roulette wheel behind the speaker so viewers know he's speaking
-about Roulette.
+about Roulette. This video should be scaled up to about 150-160%.
 
 ![Roulette Wheel](img/Seq-01-300-roulette-wheel.png)
 
