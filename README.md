@@ -23,10 +23,10 @@ Here are each of the components split out:
 
 ## Video Sequences
 There should generally be 4 sequences for the Roulette System Review.
-* Cold Open
-* Live Trials
-* Simulator
-* Review
+* [Seq 01 - Cold Open](S01-Cold-Open.md)
+* [Seq 02 - Live Trials](S02-Live-Trials.md)
+* [Seq 03 - Simulator](S03-Simulator.md)
+* [Seq 04 - Review](S04-Review.md)
 
 These can be split up into 4 separate sequences in Adobe Premiere Pro, but I generally group the Cold Open and the Live Trials into a single segment.
 
