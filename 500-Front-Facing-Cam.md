@@ -8,4 +8,7 @@ The Front Facing Cam layer is above the [Betting Progression](300-Betting-Progre
 |-|-|-----|
 |1080|757|45%|
 
+This is the layer where the talking head goes. It is recorded against a green screen and needs to be 
+keyed with Ultra Key.
+
 [Back](./)
