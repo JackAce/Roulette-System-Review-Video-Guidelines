@@ -6,10 +6,6 @@ The Front Facing Cam layer is above the [Betting Progression](300-Betting-Progre
 
 |X|Y|Scale|
 |-|-|-----|
-|1695|840|100%|
-
-This layer needs to update for every spin.
-
-I'm removing the graph, so the win/loss table can cover more of the screen.
+|1080|757|45%|
 
 [Back](./)
