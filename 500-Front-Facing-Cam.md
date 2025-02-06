@@ -2,7 +2,7 @@
 
 The Front Facing Cam layer is above the [Betting Progression](300-Betting-Progression.md) layer. 
 
-![Front Facing Cam](img/Video-Layout-800-win-loss-table.png)
+![Front Facing Cam](img/Video-Layout-500-front-facing-cam.png)
 
 |X|Y|Scale|
 |-|-|-----|
