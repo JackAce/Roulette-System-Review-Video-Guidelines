@@ -121,6 +121,65 @@ The project should have the following folder structure:
 │   ├── 📁 _background
 │   │   ├── 📄 bg-black-80.png
 │   │   └── 📄 bg-red.png
+│   ├── 📁 01-scoreboard
+│   │   ├── 📄 scoreboard-00-blank.png
+│   │   ├── 📄 scoreboard-01-title.png
+│   │   └── 📄 scoreboard-02-headers.png
+│   ├── 📁 02-progression
+│   │   ├── 📄 progression-00-blank.png
+│   │   ├── 📄 progression-00-dark.png
+│   │   ├── 📄 progression-01.png
+│   │   └── 📄 progression-02.png
+│   ├── 📁 03-roulette-layout
+│   │   ├── 📄 roulette-layout-00-blank.png
+│   │   ├── 📄 roulette-layout-10-tier1-a-bet1.png
+│   │   ├── 📄 roulette-layout-10-tier1-b-bet2.png
+│   │   └── 📄 roulette-layout-10-tier9-o-full.png
+│   ├── 📁 04-win-loss
+│   │   ├── 📄 win-loss-60.png
+│   │   ├── 📄 win-loss-61.png
+│   │   ├── 📄 win-loss-62.png
+│   │   ├── 📄 show-01.png
+│   │   ├── 📄 show-02.png
+│   │   └── 📄 show-59.png
+│   ├── 📁 05-cold-open
+│   │   ├── 📄 img-01.png
+│   │   └── 📄 img-02.png
+│   ├── 📁 06-starting-balance
+│   │   ├── 📄 bullets.png
+│   │   ├── 📄 buy-in.png
+│   │   ├── 📄 starting-balance.png
+│   │   └── 📄 starting-bet.png
+│   ├── 📁 10-expected-loss
+│   │   ├── 📄 ev-0.png
+│   │   └── 📄 ev-00.png
+│   ├── 📁 15-wheel-coverage
+│   │   ├── 📄 coverage-0.png
+│   │   └── 📄 coverage-00.png
+│   ├── 📁 20-comps
+│   │   └── 📄 comps.png
+│   ├── 📁 25-howdydo
+│   │   └── 📄 ceg-results.png
+│   ├── 📁 30-question-of-the-day
+│   │   └── 📄 qotd.png
+│   ├── 📁 35-giveaway
+│   │   └── 📄 giveaway-prize.png
+│   ├── 📁 80-simulator
+│   │   ├── 📄 number-map.png
+│   │   ├── 📄 radar-map.png
+│   │   ├── 📄 trials-graph.png
+│   │   └── 📄 simulator-99-full.png
+│   ├── 📁 90-subratings
+│   │   ├── 📄 show-01-betting-pattern.png
+│   │   ├── 📄 show-02-betting-progression.png
+│   │   └── 📄 subratings-99-full.png
 │   └── 📄 file4.png
+├── 📁 script
+│   └── 📄 yyyy-mm-dd-RSR-ROULETTE-SYSTEM-NAME-script.pdf
+├── 📁 stinger-transitions
+│   ├── 📄 01-diagonal-wipe-electric.mov
+│   ├── 📄 02-diagonal-wipe-spotted.mov
+│   ├── 📄 04-horizontal-blocks-electric.mov
+│   └── 📄 09-circular-zoom.mov
 └── 📄 yyyy-mm-dd-RSR-ROULETTE-SYSTEM-NAME.prproj
 ```
