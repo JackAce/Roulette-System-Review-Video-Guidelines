@@ -48,7 +48,7 @@ After this segment, I would like to use the `brand/JackAce-Outro-insta-tiktok-gi
 
 ## Video Composition
 There are 3 main video recordings used for the Live Trials sequence.
-* The iPad Screen Capture of the Roulette Royale apop
+* The iPad Screen Capture of the Roulette Royale app
 * The spin-by-spin bet-by-bet game calling (front facing camera video)
 * The system facts and other chatter (front facing camera video)
 
@@ -60,4 +60,67 @@ These facts should be inserted HEAVILY at the beginning of the video. For the fi
 
 After those first 4 or 5 spins, the facts can be "sprinkled in" more sparingly. Instead of being inserted every spin, you can insert a fact every TWO spins. You can use this cadence for spins 6-15. After that, you can insert the facts every 3 spins. Near the end of the video, you can insert them every 4 or 5 spins. Not only that, but you can even CUT OUT THE PLACEMENT OF THE BET and CUT DIRECTLY TO THE BALL BOUNCING AND LANDING ON A NUMBER. You can do this if the video is particularly long (more than 40 spins).
 
+## General Guidelines
+The following guidelines should be maintained
+* The amount of "Dead Air" should be cut down to a minimum
+* If there is a complicated betting pattern that takes a long time to set up, make an effort to speed up or cut out the set up of the bet
+* Keep similar video clips on the same layer
+    - Talking head video
+    - iPad Screen recording
+    - Scoreboard
+    - Progression
+    - Win/Loss cover
+    - Win/Loss
+    - Last Spin image
+    - Running total text
+    - Last win/loss text
+* Keep similar audio clips on the same layer
+    - iPad audio
+    - Talking head audio
+    - Sound f/x (`gta-wasted`, `gta-mission-passed`)
+* Make an effort to delete unneeded video layers
+* Make an effort to delete unneeded audio layers
+* There should be THREE video layers between the win/loss layer and the talking head layer
 
+## File Asset Organization
+We need to keep files organized in folders. Files should follow naming conventions to keep things tidy. This includes the name of the Adobe Premiere project file.
+
+### Folder structure
+The project should have the following folder structure:
+
+(this is a work in progress)
+
+```plaintext
+📁 yyyy-mm-dd-RSR-ROULETTE-SYSTEM-NAME
+├── 📁 a-roll
+│   ├── 📄 canon-01-spin-by-spin.mov
+│   ├── 📄 canon-02-filler-facts.mov
+│   ├── 📄 ipad-screen-recording.mov
+│   └── 📄 simulator-screen-recording.mov
+├── 📁 audio
+│   ├── 📁 outro
+│   │   ├── 📄 Anno Domini Beats - Welcome.mp3
+│   │   ├── 📄 Brooklyn and the Bridge - Nico Staf.mp3
+│   │   └── 📄 Statement (Clean) - NEFFEX.mp3
+│   ├── 📄 jackace-intro-banjo.mp3
+│   └── 📄 simulator-voiceover.mp3
+├── 📁 b-roll
+│   ├── 📄 broll-gta-mission-passed.mp4
+│   ├── 📄 broll-gta-wasted.mp4
+│   ├── 📄 green-screen-money-falling-01.mp4
+│   ├── 📄 broll-clip1.mp4
+│   └── 📄 broll-clip2.mp4
+├── 📁 brand
+│   ├── 📄 Be_Right_Back_Looping_FINAL.mp4
+│   ├── 📄 brand-plug-discord.mov
+│   ├── 📄 brand-plug-google-forms.mov
+│   ├── 📄 brand-plug-roulette-catalog-rba.mov
+│   ├── 📄 lowerthirds-06-jackhaze.qt
+│   └── 📄 file2.ext
+├── 📁 images
+│   ├── 📁 _background
+│   │   ├── 📄 bg-black-80.png
+│   │   └── 📄 bg-red.png
+│   └── 📄 file4.png
+└── 📄 yyyy-mm-dd-RSR-ROULETTE-SYSTEM-NAME.prproj
+```
